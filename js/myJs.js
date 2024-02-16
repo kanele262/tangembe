@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "Hế luu Bx!",
-  text2: "Ox có điều này muốn hỏi Bx nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Bx yêu Ox có phải không nào ._.",
-  text4: "Nếu Bx ko trả lời mà thoát ra tức là muốn làm vợ Ox rùi đó nha :v",
-  text5: "Khom iu Ox nha :))",
-  text6: "Iu Ox nhèo nhèo :))",
-  text7: "Sao Bx iu Ox vại. :vvvv",
-  text8: "Gửi cho Ox di <3",
-  text9: "Vì Ox đẹp try vlllll",
-  text10: "Iu Vk quá luôn ó",
+  text1: "Chị Uyennn à!",
+  text2: "Em có điều này mún hỏi chụy.",
+  text3: "Chi co yeu em khommm <3",
+  text4: "Không trả lời là giận ó :((",
+  text5: "Không nha anh trai :)",
+  text6: "Yêu vãi ò <33",
+  text7: "Sao Uyenn yeu Khang dooo?",
+  text8: "Gửi cho toyyy",
+  text9: "Tại ngoan chinh yêu cute dễ thưn óooo <33",
+  text10: "Toy bt mà! Mãi yêu chị Uyenn",
   text11:
-    "Lấy Ox lun nha Bx :DDDDDDDDDDDDD",
-  text12: "Okii lunn <3",
+    "Chúc chị Uyenn năm mới ngày càng xênh xễu",
+  text12: "Ỏoooo",
 };
 
 $(document).ready(function () {
