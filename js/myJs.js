@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "Chị Uyennn à!",
-  text2: "Em có điều này mún hỏi chụy.",
-  text3: "Chi co yeu em khommm <3",
+  text1: "Nguyên àaaa!",
+  text2: "Anh có điều này muốn hỏi emmm!",
+  text3: "Em co yeu anh khomm <3",
   text4: "Không trả lời là giận ó :((",
   text5: "Không nha anh trai :)",
   text6: "Yêu vãi ò <33",
-  text7: "Sao Uyenn yeu Khang dooo?",
+  text7: "Sao Nguyen yeu Khang dooo?",
   text8: "Gửi cho toyyy",
   text9: "Tại ngoan chinh yêu cute dễ thưn óooo <33",
-  text10: "Toy bt mà! Mãi yêu chị Uyenn",
+  text10: "Toy bt mà! Mãi yêu Nguyenn",
   text11:
-    "Chúc chị Uyenn năm mới ngày càng xênh xễu",
+    "Chúc Nguyên năm mới ngày càng xênh xễu",
   text12: "Ỏoooo",
 };
 
